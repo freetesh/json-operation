@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: json-operation
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Ritesh
+Implementation-Vendor-Id: com.github.fritesh
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/json-operation
+Created-By: Maven Integration for Eclipse
+
